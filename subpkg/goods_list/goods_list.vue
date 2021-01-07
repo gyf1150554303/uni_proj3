@@ -1,6 +1,6 @@
 <template>
 	<view>
-		Goods_list
+		二次元无敌
 	</view>
 </template>
 
